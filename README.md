@@ -1,6 +1,7 @@
 # Apprendre le Français 🇫🇷
 
-Bienvenue dans le guide de grammaire française ! Voici un aperçu organisé des sujets que nous allons couvrir :
+FR - Bienvenue dans le guide de grammaire française ! Voici un aperçu organisé des sujets que nous allons couvrir:
+BR - Bem-vindo ao guia de gramática francesa! Aqui está uma visão geral com curadoria dos tópicos que abordaremos:
 
 1. [🔤 Alphabet et Prononciation](#alphabet-et-prononciation)
 2. [📝 Articles (définis et indéfinis)](#articles-définis-et-indéfinis)
