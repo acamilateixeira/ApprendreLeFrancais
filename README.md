@@ -661,3 +661,50 @@ A gramática avançada em francês inclui várias estruturas e conceitos mais co
    - **Elle a dit qu'elle était fatiguée** (Ela disse que estava cansada).
 
 Esses são apenas alguns tópicos avançados de gramática em francês. É importante praticar esses conceitos em contextos variados para melhorar sua compreensão e uso correto em suas conversas e escrita em francês. A prática regular e a exposição a diferentes tipos de texto o ajudarão a aprimorar suas habilidades em gramática avançada em francês.
+
+
+BÔNUS -  CHEGOU ATÉ AQUI:
+
+francês do zero ao intermediário, focando apenas na fala e escuta:
+
+**Mês 1 - Nível Iniciante:**
+
+Semana 1:
+- Aprenda os cumprimentos básicos em francês e algumas frases úteis para situações cotidianas.
+- Assista a vídeos curtos em francês com legendas em francês para se acostumar com o som do idioma.
+- Participe de grupos de conversação online em francês para praticar a pronúncia.
+
+Semana 2:
+- Estude vocabulário relacionado a números, cores, objetos domésticos e alimentos.
+- Assista a filmes ou séries em francês com legendas em francês ou em seu idioma nativo.
+- Pratique diálogos simples em situações comuns, como pedir comida em um restaurante ou dar direções.
+
+Semana 3:
+- Aprenda a formar frases básicas com sujeito, verbo e objeto.
+- Ouça músicas em francês e tente acompanhar a letra para melhorar sua compreensão auditiva.
+- Pratique a conversação em francês com amigos que falam o idioma.
+
+Semana 4:
+- Estude a gramática básica, como pronomes pessoais, artigos definidos e indefinidos.
+- Participe de grupos de conversação online ou videochamadas com falantes nativos para ganhar mais confiança na fala.
+
+**Mês 2 - Nível Intermediário:**
+
+Semana 5:
+- Aprenda vocabulário mais avançado, incluindo termos relacionados a trabalho, viagens, hobbies, etc.
+- Assista a séries ou filmes em francês com legendas apenas em francês ou sem legendas, se possível.
+- Pratique diálogos mais complexos sobre diferentes tópicos.
+
+Semana 6:
+- Estude estruturas gramaticais mais avançadas, como tempos verbais (passado, presente e futuro) e condicional.
+- Ouça podcasts em francês sobre assuntos de interesse para melhorar a compreensão auditiva.
+- Participe de grupos de conversação mais avançados para desafiar suas habilidades de comunicação.
+
+Semana 7:
+- Aprofunde seu vocabulário com expressões idiomáticas e coloquiais em francês.
+- Assista a programas de notícias ou debates em francês para praticar a compreensão de discursos mais rápidos e formais.
+
+Semana 8:
+- Revisite os tópicos e conceitos estudados ao longo do projeto para fortalecer suas habilidades.
+- Pratique diálogos improvisados e situações mais complexas de conversação.
+- Faça uma avaliação final de suas habilidades de fala e escuta em francês.
