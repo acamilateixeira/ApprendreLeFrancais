@@ -665,46 +665,32 @@ Esses são apenas alguns tópicos avançados de gramática em francês. É impor
 
 BÔNUS -  CHEGOU ATÉ AQUI:
 
-francês do zero ao intermediário, focando apenas na fala e escuta:
+Chegar ao nível intermediário em francês de maneira mais realista requer um planejamento cuidadoso e uma abordagem consistente ao longo do tempo. A seguir, uma proposta de metas e um cronograma mais realista para alcançar o nível intermediário em francês:
 
-**Mês 1 - Nível Iniciante:**
+**Tempo: 6 a 12 meses**
 
-Semana 1:
-- Aprenda os cumprimentos básicos em francês e algumas frases úteis para situações cotidianas.
-- Assista a vídeos curtos em francês com legendas em francês para se acostumar com o som do idioma.
-- Participe de grupos de conversação online em francês para praticar a pronúncia.
+1. **Nível Iniciante (1 a 3 meses)**:
+   - Aprender os cumprimentos básicos e frases úteis para situações cotidianas.
+   - Estudar vocabulário relacionado a números, cores, alimentos e objetos domésticos.
+   - Praticar a pronúncia e a compreensão auditiva por meio de vídeos, podcasts e grupos de conversação.
 
-Semana 2:
-- Estude vocabulário relacionado a números, cores, objetos domésticos e alimentos.
-- Assista a filmes ou séries em francês com legendas em francês ou em seu idioma nativo.
-- Pratique diálogos simples em situações comuns, como pedir comida em um restaurante ou dar direções.
+2. **Nível Básico (4 a 6 meses)**:
+   - Ampliar o vocabulário para incluir tópicos como família, hobbies, trabalho, etc.
+   - Dominar a formação de frases simples e melhorar a gramática básica.
+   - Participar de conversações mais longas e complexas com falantes nativos ou outros estudantes.
 
-Semana 3:
-- Aprenda a formar frases básicas com sujeito, verbo e objeto.
-- Ouça músicas em francês e tente acompanhar a letra para melhorar sua compreensão auditiva.
-- Pratique a conversação em francês com amigos que falam o idioma.
+3. **Nível Intermediário (7 a 12 meses)**:
+   - Aprofundar o vocabulário e aprender expressões idiomáticas e coloquiais.
+   - Praticar a compreensão auditiva com materiais mais avançados, como filmes e programas de TV em francês.
+   - Aperfeiçoar a gramática, incluindo tempos verbais passados, futuro e condicional.
+   - Participar de debates e discussões em francês para melhorar a fluência e a capacidade de expressar opiniões.
 
-Semana 4:
-- Estude a gramática básica, como pronomes pessoais, artigos definidos e indefinidos.
-- Participe de grupos de conversação online ou videochamadas com falantes nativos para ganhar mais confiança na fala.
+**Metas Realistas**:
 
-**Mês 2 - Nível Intermediário:**
+1. **Dedicação Diária**: Estabeleça uma rotina diária de estudo de francês, dedicando pelo menos 30 minutos a uma hora por dia para praticar.
 
-Semana 5:
-- Aprenda vocabulário mais avançado, incluindo termos relacionados a trabalho, viagens, hobbies, etc.
-- Assista a séries ou filmes em francês com legendas apenas em francês ou sem legendas, se possível.
-- Pratique diálogos mais complexos sobre diferentes tópicos.
+2. **Imersão**: Exponha-se ao máximo possível ao francês, assistindo a filmes, séries, ouvindo músicas, podcasts e lendo textos em francês.
 
-Semana 6:
-- Estude estruturas gramaticais mais avançadas, como tempos verbais (passado, presente e futuro) e condicional.
-- Ouça podcasts em francês sobre assuntos de interesse para melhorar a compreensão auditiva.
-- Participe de grupos de conversação mais avançados para desafiar suas habilidades de comunicação.
+3. **Prática de Conversação**: Participe de grupos de conversação online ou encontre parceiros de intercâmbio de idiomas para praticar conversação regularmente.
 
-Semana 7:
-- Aprofunde seu vocabulário com expressões idiomáticas e coloquiais em francês.
-- Assista a programas de notícias ou debates em francês para praticar a compreensão de discursos mais rápidos e formais.
-
-Semana 8:
-- Revisite os tópicos e conceitos estudados ao longo do projeto para fortalecer suas habilidades.
-- Pratique diálogos improvisados e situações mais complexas de conversação.
-- Faça uma avaliação final de suas habilidades de fala e escuta em francês.
+4. **Acompanhamento do Progresso**: Monitore seu progresso ao longo do tempo, identificando áreas que precisam ser melhoradas e celebrando suas conquistas.
