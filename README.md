@@ -1112,5 +1112,63 @@ Alguns alimentos em francês, juntamente com suas traduções em português:
 | Escalope                      | Escalope                    |
 | Quiche                        | Quiche                      |
 
+# Itens que tem na casa
+
+Itens que você pode encontrar em uma casa em francês, juntamente com suas traduções em português:
+
+| Objetos em Francês            | Tradução em Português         |
+|-------------------------------|-------------------------------|
+| Maison (La maison)            | Casa                          |
+| Chambre                       | Quarto                        |
+| Salon                         | Sala de estar                 |
+| Cuisine                       | Cozinha                       |
+| Salle de bain                 | Banheiro                      |
+| Toilettes                     | Banheiro (toalete)            |
+| Lit                           | Cama                          |
+| Table                         | Mesa                          |
+| Chaise                        | Cadeira                       |
+| Canapé                        | Sofá                          |
+| Armoire                       | Armário                       |
+| Étagère                       | Prateleira                    |
+| Lampe                         | Lâmpada                       |
+| Télévision                    | Televisão                     |
+| Réfrigérateur (Frigo)         | Geladeira                     |
+| Four                          | Forno                         |
+| Micro-ondes                   | Micro-ondas                   |
+| Lave-vaisselle                | Lava-louças                   |
+| Machine à laver               | Máquina de lavar roupa        |
+| Aspirateur                    | Aspirador de pó               |
+| Fenêtre                       | Janela                        |
+| Porte                         | Porta                         |
+| Tapis                         | Tapete                        |
+| Rideau                        | Cortina                       |
+| Oreiller                      | Travesseiro                   |
+| Couverture                    | Cobertor                      |
+| Serviette                     | Toalha                        |
+| Vaisselle                     | Louça (pratos e talheres)     |
+| Verre                         | Copo                          |
+| Assiette                      | Prato                         |
+| Cuillère                      | Colher                        |
+| Fourchette                    | Garfo                         |
+| Couteau                       | Faca                          |
+| Casserole                     | Panela                        |
+| Poêle                         | Frigideira                    |
+| Bol                           | Tigela                        |
+| Réveil                        | Relógio despertador           |
+| Téléphone                     | Telefone                      |
+| Ordinateur                    | Computador                    |
+| Tablette (électronique)       | Tablet                        |
+| Télécommande                  | Controle remoto               |
+| Livre                         | Livro                         |
+| Journal                       | Jornal                        |
+| Plante                        | Planta                        |
+| Décoration                    | Decoração                     |
+| Cadre                         | Quadro                        |
+| Miroir                        | Espelho                       |
+| Clé                           | Chave                         |
+| Téléphone                     | Telefone                      |
+| Chargeur                      | Carregador                    |
+| Portefeuille                  | Carteira                      |
+| Lunettes                      | Óculos                        |
 
 Divirta-se aprendendo francês! 🇫🇷🌟
