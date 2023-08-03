@@ -694,3 +694,103 @@ Chegar ao nível intermediário em francês de maneira mais realista requer um p
 3. **Prática de Conversação**: Participe de grupos de conversação online ou encontre parceiros de intercâmbio de idiomas para praticar conversação regularmente.
 
 4. **Acompanhamento do Progresso**: Monitore seu progresso ao longo do tempo, identificando áreas que precisam ser melhoradas e celebrando suas conquistas.
+
+**APROFUNDANDO TEMPO VERBAL**
+
+**Tempos Verbais em Francês**
+
+Este é um guia sobre os principais tempos verbais em francês, que são fundamentais para compreender a conjugação dos verbos e expressar ações em diferentes momentos no tempo.
+
+## Tempos Verbais
+
+1. **Presente (Présent):**
+   O presente é usado para indicar ações que estão acontecendo no momento presente ou fatos gerais.
+   Exemplos:
+   - Je parle (Eu falo)
+   - Tu manges (Tu comes)
+   - Il/Elle/On danse (Ele/Ela/Dança)
+   - Nous travaillons (Nós trabalhamos)
+   - Vous chantez (Vocês cantam)
+   - Ils/Elles jouent (Eles/Elas jogam)
+
+2. **Passado Simples (Passé Composé):**
+   O passado composto é usado para indicar ações concluídas no passado, geralmente eventos que aconteceram em um momento específico.
+   Exemplos:
+   - J'ai mangé (Eu comi)
+   - Tu as parlé (Você falou)
+   - Il/Elle/On est allé(e) (Ele/Ela foi)
+   - Nous avons dansé (Nós dançamos)
+   - Vous avez chanté (Vocês cantaram)
+   - Ils/Elles ont joué (Eles/Elas jogaram)
+
+3. **Futuro Simples (Futur Simple):**
+   O futuro simples é usado para expressar ações que ocorrerão no futuro.
+   Exemplos:
+   - Je parlerai (Eu falarei)
+   - Tu mangeras (Você comerá)
+   - Il/Elle/On dansera (Ele/Ela dançará)
+   - Nous travaillerons (Nós trabalharemos)
+   - Vous chanterez (Vocês cantarão)
+   - Ils/Elles joueront (Eles/Elas jogarão)
+
+4. **Imperfeito (Imparfait):**
+   O imperfeito é usado para descrever ações contínuas ou repetitivas no passado, bem como situações que costumavam acontecer.
+   Exemplos:
+   - Je parlais (Eu falava)
+   - Tu mangeais (Você comia)
+   - Il/Elle/On dansait (Ele/Ela dançava)
+   - Nous travaillions (Nós trabalhávamos)
+   - Vous chantiez (Vocês cantavam)
+   - Ils/Elles jouaient (Eles/Elas jogavam)
+
+5. **Condicional (Conditionnel):**
+   O condicional é usado para expressar ações hipotéticas ou educadas, geralmente ligadas a uma condição.
+   Exemplos:
+   - Je parlerais (Eu falaria)
+   - Tu mangerais (Você comeria)
+   - Il/Elle/On danserait (Ele/Ela dançaria)
+   - Nous travaillerions (Nós trabalharíamos)
+   - Vous chanteriez (Vocês cantariam)
+   - Ils/Elles joueraient (Eles/Elas jogariam)
+
+6. **Imperativo (Impératif):**
+   O imperativo é usado para dar ordens, fazer pedidos ou expressar instruções diretas.
+   Exemplos:
+   - Parle ! (Fale!)
+   - Mangeons ! (Comamos!)
+   - Chantez ! (Cantem!)
+
+## Como Usar
+
+Cada tempo verbal tem suas próprias regras de conjugação para diferentes verbos em francês. Pratique com esses tempos verbais para aprimorar sua comunicação em situações diversas e para expressar ações em diferentes momentos no tempo.
+
+preocupe-se inicialmente com apenas 3:
+
+**Presente (Présent):**
+
+Je mange (Eu como)
+Tu manges (Você come)
+Il/Elle mange (Ele/Ela come)
+Nous mangeons (Nós comemos)
+Vous mangez (Vocês comem)
+Ils/Elles mangent (Eles/Elas comem)
+
+**Passado Composto (Passé Composé):**
+
+J'ai mangé (Eu comi)
+Tu as mangé (Você comeu)
+Il/Elle a mangé (Ele/Ela comeu)
+Nous avons mangé (Nós comemos)
+Vous avez mangé (Vocês comeram)
+Ils/Elles ont mangé (Eles/Elas comeram)
+
+**Futuro (Futur Simple):**
+
+Je mangerai (Eu comerei)
+Tu mangeras (Você comerá)
+Il/Elle mangera (Ele/Ela comerá)
+Nous mangerons (Nós comeremos)
+Vous mangerez (Vocês comerão)
+Ils/Elles mangeront (Eles/Elas comerão)
+
+Divirta-se aprendendo francês! 🇫🇷🌟
