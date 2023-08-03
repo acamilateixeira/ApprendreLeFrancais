@@ -793,4 +793,324 @@ Nous mangerons (Nós comeremos)
 Vous mangerez (Vocês comerão)
 Ils/Elles mangeront (Eles/Elas comerão)
 
+# Conectivos
+
+Conectivos mais comuns em francês e suas traduções em português:
+
+| Conectivos em Francês       | Tradução em Português     |
+|----------------------------|--------------------------|
+| Et                         | E                        |
+| Mais                       | Mas                      |
+| Ou                         | Ou                       |
+| Donc                       | Portanto, então          |
+| Car                        | Pois, porque             |
+| Parce que                  | Porque                   |
+| Si                         | Se                       |
+| Comme                      | Como                     |
+| Aussi                     | Também                  |
+| D'abord                    | Primeiramente            |
+| Ensuite                    | Em seguida, depois      |
+| Alors                      | Então                    |
+| Cependant                  | Contudo                  |
+| En revanche                | Em compensação          |
+| En effet                   | De fato                  |
+| Pourtant                   | No entanto              |
+| Ainsi                      | Assim                    |
+| De plus                    | Além disso              |
+| En outre                   | Além disso, além do mais |
+| Par conséquent             | Consequentemente        |
+| D'autre part               | Por outro lado          |
+| En conclusion              | Em conclusão            |
+| En somme                   | Resumindo               |
+| En bref                    | Em resumo               |
+| Tout d'abord               | Em primeiro lugar       |
+
+Esses conectivos são úteis para criar conexões lógicas entre ideias e facilitar a expressão de pensamentos em francês. Lembre-se de praticar o uso deles para melhorar suas habilidades linguísticas!
+
+# Pergunta
+
+Interrogativas em francês e suas traduções em português:
+
+| Pergunta em Francês      | Tradução em Português          |
+|-------------------------|-------------------------------|
+| Qui?                    | Quem?                         |
+| Quoi?                   | O quê?                        |
+| Où?                     | Onde?                         |
+| Quand?                  | Quando?                       |
+| Pourquoi?               | Por quê?                      |
+| Comment?                | Como?                         |
+| Combien?                | Quanto/Quantos/Quantas?       |
+| Quel/Quelle/Quels/Quelles? | Qual/Quais?                 |
+| Lequel/Laquelle/Lesquels/Lesquelles? | Qual deles?           |
+| Depuis quand?           | Desde quando?                 |
+| À quelle heure?         | A que horas?                  |
+| À qui?                  | Para quem?                    |
+| De qui?                 | De quem?                      |
+
+# Adjetivos
+
+Adjetivos em francês e suas traduções em português:
+
+| Adjetivos em Francês       | Tradução em Português     |
+|---------------------------|--------------------------|
+| Bon                       | Bom                      |
+| Mauvais                   | Ruim                     |
+| Petit                     | Pequeno                  |
+| Grand                     | Grande                   |
+| Beau                      | Bonito                   |
+| Moche                     | Feio                     |
+| Jeune                     | Jovem                    |
+| Vieux                     | Velho                    |
+| Fort                      | Forte                    |
+| Faible                    | Fraco                    |
+| Rapide                    | Rápido                   |
+| Lent                      | Lento                    |
+| Nouveau                   | Novo                     |
+| Ancien                    | Antigo                   |
+| Long                      | Longo                    |
+| Court                     | Curto                    |
+| Chaud                     | Quente                   |
+| Froid                     | Frio                     |
+| Léger                     | Leve                     |
+| Lourd                     | Pesado                   |
+| Simple                    | Simples                  |
+| Compliqué                 | Complicado               |
+| Facile                    | Fácil                    |
+| Difficile                 | Difícil                  |
+| Intéressant               | Interessante             |
+| Ennuyeux                  | Entediante               |
+| Joyeux                    | Alegre                   |
+| Triste                    | Triste                   |
+| Heureux                   | Feliz                    |
+| Fier                      | Orgulhoso                |
+| Humble                    | Humilde                  |
+| Sérieux                   | Sério                    |
+| Drôle                     | Engraçado                |
+| Calme                     | Calmo                    |
+| Nerveux                   | Nervoso                  |
+| Timide                    | Tímido                   |
+| Courageux                 | Corajoso                 |
+| Peureux                   | Medroso                  |
+| Actif                     | Ativo                    |
+| Paresseux                 | Preguiçoso               |
+| Sympathique               | Simpático                |
+| Antipathique              | Antipático               |
+| Malin                     | Esperto                  |
+| Bête                      | Bobo, bobinho            |
+| Maladroit                 | Desajeitado              |
+| Habile                    | Habilidoso               |
+| Poli                      | Educado                  |
+| Impoli                    | Mal-educado              |
+| Beau (bel, belles)        | Bonito                   |
+| Riche                     | Rico                     |
+| Pauvre                    | Pobre                    |
+| Fort                      | Forte                    |
+| Courageux                 | Corajoso                 |
+| Intelligent               | Inteligente              |
+| Créatif                   | Criativo                 |
+| Honnête                   | Honesto                  |
+| Généreux                  | Generoso                 |
+| Égoïste                   | Egoísta                  |
+| Modeste                   | Modesto                  |
+| Romantique                | Romântico                |
+| Curieux                   | Curioso                  |
+| Sérieux                   | Sério                    |
+| Bavard                    | Tagarela                 |
+| Silencieux                | Silencioso               |
+| Sportif                   | Esportivo                |
+| Artiste                   | Artístico                |
+| Amusant                   | Divertido                |
+| Sérieux                   | Sério                    |
+| Talentueux                | Talentoso                |
+| Énergique                 | Energético               |
+| Sensible                  | Sensível                 |
+| Sincère                   | Sincero                  |
+| Jaloux                    | Ciumento                 |
+| Bavard                    | Falador                  |
+| Comique                   | Cômico                   |
+| Brave                     | Bravo                    |
+| Pessimiste                | Pessimista               |
+| Optimiste                 | Otimista                 |
+| Égoïste                   | Egoísta                  |
+| Modeste                   | Modesto                  |
+| Déterminé                 | Determinado              |
+| Organisé                  | Organizado               |
+| Désordonné                | Desorganizado            |
+| Poli                      | Educado                  |
+| Impoli                    | Mal-educado              |
+| Gentil                    | Gentil                   |
+| Méchant                   | Malvado                  |
+| Sensible                  | Sensível                 |
+| Insensible                | Insensível               |
+| Douloureux                | Doloroso                 |
+| Doux                      | Doce                     |
+| Fort                      | Forte                    |
+| Faible                    | Fraco                    |
+| Dangereux                 | Perigoso                 |
+| Sûr                       | Seguro                   |
+| Incertain                 | Incerto                  |
+| Clair                     | Claro                    |
+| Obscur                    | Escuro                   |
+| Propre                    | Limpo                    |
+| Sale                      | Sujo                     |
+
+# vocabulário de programação
+
+termos de programação e TI em francês, juntamente com suas traduções em português:
+
+| Termos em Francês           | Tradução em Português          |
+|----------------------------|-------------------------------|
+| Programmation              | Programação                   |
+| Informatique               | Informática                   |
+| Langage de programmation   | Linguagem de programação      |
+| Développement              | Desenvolvimento               |
+| Développeur                | Desenvolvedor                 |
+| Code                       | Código                        |
+| Algorithme                 | Algoritmo                     |
+| Variable                   | Variável                      |
+| Fonction                   | Função                        |
+| Classe                     | Classe                        |
+| Objet                      | Objeto                        |
+| Tableau                    | Array                         |
+| Boucle                     | Loop                          |
+| Condition                  | Condição                      |
+| Base de données            | Banco de dados                |
+| Serveur                    | Servidor                      |
+| Site web                   | Site da web                   |
+| Application mobile         | Aplicativo móvel              |
+| Interface utilisateur      | Interface do usuário          |
+| Navigateur web             | Navegador da web              |
+| Système d'exploitation     | Sistema operacional           |
+| Réseau                     | Rede                          |
+| Cloud                      | Nuvem                         |
+| Cryptographie              | Criptografia                  |
+| Sécurité                   | Segurança                     |
+| Programmeur                | Programador                   |
+| Test                        | Teste                         |
+| Débogage                  | Depuração                     |
+| Version                    | Versão                        |
+| Téléchargement             | Download                      |
+| Téléversement              | Upload                        |
+| Fichier                    | Arquivo                       |
+| Dossier                    | Pasta                         |
+| Compilation                | Compilação                    |
+| Éditeur de code            | Editor de código              |
+| API (Interface de programmation)| API (Interface de programação)|
+| Git                        | Git                           |
+| Terminal                   | Terminal                      |
+| Interface en ligne de commande | Interface de linha de comando|
+| Programmation orientée objet | Programação orientada a objetos|
+| Réseau de neurones         | Rede neural                   |
+| Intelligence artificielle  | Inteligência artificial       |
+| Apprentissage automatique  | Aprendizado de máquina        |
+| Traitement du langage naturel | Processamento de linguagem natural |
+| Big Data                   | Big Data                      |
+| Internet des objets        | Internet das coisas           |
+| Machine virtuelle          | Máquina virtual               |
+| Virtualisation             | Virtualização                 |
+| Docker                     | Docker                        |
+| Kubernetes                 | Kubernetes                    |
+| Framework                  | Framework                     |
+| Programmation fonctionnelle| Programação funcional         |
+
+# Talvez apareça em uma entrevista de emprego:
+
+Podem ser úteis em uma entrevista:
+
+| Expressões em Francês      | Tradução em Português       |
+|----------------------------|----------------------------|
+| Bonjour                    | Olá                        |
+| Comment ça va?             | Como você está?            |
+| Enchanté(e)                | Prazer em conhecê-lo(a)    |
+| Merci                      | Obrigado(a)                |
+| De rien                    | De nada                    |
+| S'il vous plaît            | Por favor                  |
+| Excusez-moi                | Com licença                |
+| Je m'appelle...            | Meu nome é...              |
+| Je suis...                 | Eu sou...                  |
+| J'ai de l'expérience dans... | Eu tenho experiência em... |
+| Je parle français          | Eu falo francês            |
+| Je comprends un peu        | Eu entendo um pouco        |
+| Je ne comprends pas        | Eu não entendo             |
+| Pouvez-vous répéter, s'il vous plaît? | Você pode repetir, por favor? |
+| Je suis prêt(e)            | Estou pronto(a)            |
+| Je suis motivé(e)          | Estou motivado(a)          |
+| J'ai des compétences en... | Tenho habilidades em...     |
+| Je peux travailler en équipe | Posso trabalhar em equipe  |
+| Je suis disponible         | Estou disponível           |
+| Quelles sont vos attentes pour ce poste? | Quais são suas expectativas para este cargo? |
+| Parlez-moi de vous         | Fale-me sobre você         |
+| Quels sont vos points forts? | Quais são seus pontos fortes? |
+| Quels sont vos points faibles? | Quais são seus pontos fracos? |
+| Où vous voyez-vous dans cinq ans? | Onde você se vê daqui a cinco anos? |
+| Pourquoi voulez-vous ce poste? | Por que você quer esse cargo? |
+| Quelle est votre expérience antérieure? | Qual é a sua experiência anterior? |
+| Comment gérez-vous le stress? | Como você lida com o estresse? |
+| Quelles sont vos principales réalisations professionnelles? | Quais são suas principais realizações profissionais? |
+| Avez-vous des questions pour nous? | Você tem alguma pergunta para nós? |
+| Je vous remercie pour cette opportunité | Agradeço-lhe por esta oportunidade |
+| Au revoir                  | Adeus                      |
+
+# Alimentos
+
+Alguns alimentos em francês, juntamente com suas traduções em português:
+
+| Alimentos em Francês           | Tradução em Português        |
+|-------------------------------|-----------------------------|
+| Pain                          | Pão                         |
+| Arroz                         | Riz                         |
+| Feijão	                       | Haricots                    |
+| Baguette                      | Baguete                     |
+| Fromage                       | Queijo                      |
+| Beurre                        | Manteiga                    |
+| Jambon                        | Presunto                    |
+| Saucisson                     | Salame                      |
+| Poulet                        | Frango                      |
+| Boeuf                         | Carne de boi                |
+| Porc                          | Carne de porco              |
+| Poisson                       | Peixe                       |
+| Saumon                        | Salmão                      |
+| Crevettes                     | Camarão                     |
+| Fruits de mer                 | Frutos do mar               |
+| Légumes                       | Legumes                     |
+| Pomme de terre                | Batata                      |
+| Carotte                       | Cenoura                     |
+| Tomate                        | Tomate                      |
+| Oignon                        | Cebola                      |
+| Ail                           | Alho                        |
+| Champignon                    | Cogumelo                    |
+| Salade                        | Salada                      |
+| Fraise                        | Morango                     |
+| Framboise                     | Framboesa                   |
+| Banane                        | Banana                      |
+| Orange                        | Laranja                     |
+| Pomme                         | Maçã                        |
+| Poire                         | Pêra                        |
+| Raisin                        | Uva                         |
+| Pastèque                      | Melancia                    |
+| Ananas                        | Abacaxi                     |
+| Cerise                        | Cereja                      |
+| Mûre                          | Amora                       |
+| Pêche                         | Pêssego                     |
+| Abricot                       | Damasco                     |
+| Prune                         | Ameixa                      |
+| Amande                        | Amêndoa                     |
+| Noix                          | Noz                         |
+| Pistache                      | Pistache                    |
+| Chocolat                      | Chocolate                   |
+| Crème                         | Creme                       |
+| Glace                         | Sorvete                     |
+| Gâteau                        | Bolo                        |
+| Tarte                         | Torta                       |
+| Pâtisserie                    | Confeitaria                 |
+| Croissant                     | Croissant                   |
+| Pain au chocolat              | Croissant de chocolate       |
+| Crêpe                         | Crepe                       |
+| Baguette                      | Baguete                     |
+| Escargot                      | Caracol                     |
+| Foie gras                     | Foie gras                   |
+| Escalope                      | Escalope                    |
+| Quiche                        | Quiche                      |
+
+
 Divirta-se aprendendo francês! 🇫🇷🌟
