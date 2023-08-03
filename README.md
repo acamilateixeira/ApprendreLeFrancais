@@ -1262,6 +1262,133 @@ verbos em francês, juntamente com suas traduções em português:
 | Dorer                        | Dourar                        |
 | Assaisonner                  | Temperar                      |
 
+# Adverbio de Frequência
+
+advérbios de frequência em francês, juntamente com suas traduções em português:
+
+| Advérbios em Francês   | Tradução em Português  |
+|-----------------------|------------------------|
+| Toujours              | Sempre                 |
+| Souvent               | Frequentemente         |
+| Parfois               | Às vezes               |
+| Rarement              | Raramente              |
+| Jamais                | Nunca                  |
+| De temps en temps     | De vez em quando       |
+| Quelquefois          | Algumas vezes          |
+| Chaque jour           | Todos os dias          |
+| Tous les jours        | Todos os dias          |
+| Chaque semaine        | Todas as semanas       |
+| Toutes les semaines   | Todas as semanas       |
+| Chaque mois          | Todos os meses         |
+| Tous les mois        | Todos os meses         |
+| Chaque année         | Todos os anos          |
+| Tous les ans         | Todos os anos          |
+| Maintenant            | Agora                  |
+| Avant                 | Antes                  |
+| Après                 | Depois                 |
+| Encore                | Ainda                  |
+| Hier                  | Ontem                  |
+| Aujourd'hui           | Hoje                   |
+| Demain                | Amanhã                 |
+| Bientôt               | Em breve               |
+| Longtemps             | Por muito tempo        |
+| Quand                 | Quando                 |
+| Comment               | Como                   |
+| Où                   | Onde                   |
+| Pourquoi              | Por que                |
+| Peut-être             | Talvez                 |
+| Vraiment              | Realmente              |
+| Peu                   | Pouco                  |
+| Beaucoup              | Muito                  |
+| Assez                 | Bastante               |
+| Très                  | Muito/muitíssimo       |
+| Trop                  | Demais/excessivamente  |
+| Presque               | Quase                  |
+| Absolument            | Absolutamente          |
+| Vite                  | Rápido                 |
+| Lentement             | Lentamente             |
+| Bien                  | Bem                    |
+| Mal                   | Mal                    |
+| Ailleurs              | Em outro lugar         |
+| Partout               | Em todos os lugares    |
+| Auparavant            | Anteriormente          |
+| Actuellement          | Atualmente             |
+| Généralement          | Geralmente             |
+| Normalement           | Normalmente            |
+| Heureusement          | Felizmente             |
+| Malheureusement       | Infelizmente           |
+| Probablement          | Provavelmente          |
+| Certainement          | Certamente             |
+| Réellement            | Realmente              |
+| Simplement            | Simplesmente           |
+| Probablement          | Provavelmente          |
+| Éventuellement        | Eventualmente          |
+| Principalement        | Principalmente         |
+| Généralement          | Geralmente             |
+| Exactement            | Exatamente             |
+| Presque               | Quase                  |
+| Partiellement         | Parcialmente           |
+| Toujours              | Sempre                 |
+| Souvent               | Frequentemente         |
+| Parfois               | Às vezes               |
+| Rarement              | Raramente              |
+| Jamais                | Nunca                  |
+| De temps en temps     | De vez em quando       |
+| Quelquefois          | Algumas vezes          |
+| Chaque jour           | Todos os dias          |
+| Tous les jours        | Todos os dias          |
+| Chaque semaine        | Todas as semanas       |
+| Toutes les semaines   | Todas as semanas       |
+| Chaque mois          | Todos os meses         |
+| Tous les mois        | Todos os meses         |
+| Chaque année         | Todos os anos          |
+| Tous les ans         | Todos os anos          |
+| Maintenant            | Agora                  |
+| Avant                 | Antes                  |
+| Après                 | Depois                 |
+| Encore                | Ainda                  |
+| Hier                  | Ontem                  |
+| Aujourd'hui           | Hoje                   |
+| Demain                | Amanhã                 |
+| Bientôt               | Em breve               |
+| Longtemps             | Por muito tempo        |
+| Quand                 | Quando                 |
+| Comment               | Como                   |
+| Où                   | Onde                   |
+| Pourquoi              | Por que                |
+| Peut-être             | Talvez                 |
+| Vraiment              | Realmente              |
+| Peu                   | Pouco                  |
+| Beaucoup              | Muito                  |
+| Assez                 | Bastante               |
+| Très                  | Muito/muitíssimo       |
+| Trop                  | Demais/excessivamente  |
+| Presque               | Quase                  |
+| Absolument            | Absolutamente          |
+| Vite                  | Rápido                 |
+| Lentement             | Lentamente             |
+| Bien                  | Bem                    |
+| Mal                   | Mal                    |
+| Ailleurs              | Em outro lugar         |
+| Partout               | Em todos os lugares    |
+| Auparavant            | Anteriormente          |
+| Actuellement          | Atualmente             |
+| Généralement          | Geralmente             |
+| Normalement           | Normalmente            |
+| Heureusement          | Felizmente             |
+| Malheureusement       | Infelizmente           |
+| Probablement          | Provavelmente          |
+| Certainement          | Certamente             |
+| Réellement            | Realmente              |
+| Simplement            | Simplesmente           |
+| Probablement          | Provavelmente          |
+| Éventuellement        | Eventualmente          |
+| Principalement        | Principalmente         |
+| Généralement          | Geralmente             |
+| Exactement            | Exatamente             |
+| Presque               | Quase                  |
+| Partiellement         | Parcialmente           |
+
 # vocabulário de programação
 
 termos de programação e TI em francês, juntamente com suas traduções em português:
