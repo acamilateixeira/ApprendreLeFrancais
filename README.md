@@ -1058,8 +1058,8 @@ Alguns alimentos em francês, juntamente com suas traduções em português:
 | Alimentos em Francês           | Tradução em Português        |
 |-------------------------------|-----------------------------|
 | Pain                          | Pão                         |
-| Arroz                         | Riz                         |
-| Feijão	                       | Haricots                    |
+| Riz                           | Arroz                       |
+| Haricots	                    | Feijão                      |
 | Baguette                      | Baguete                     |
 | Fromage                       | Queijo                      |
 | Beurre                        | Manteiga                    |
